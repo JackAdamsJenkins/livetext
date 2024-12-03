@@ -1,7 +1,7 @@
 import "@liveblocks/react-tiptap/styles.css";
 import "@liveblocks/react-ui/styles.css";
 import './App.css';
-import { Editor } from "./components/editor";
+import { Editor } from "./components/Editor";
 // import { Editor } from '@tiptap/react';
 
 import {

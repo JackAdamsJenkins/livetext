@@ -1,8 +1,8 @@
 import { useLiveblocksExtension } from "@liveblocks/react-tiptap";
 import { EditorContent, useEditor } from "@tiptap/react";
 import StarterKit from "@tiptap/starter-kit";
-import { Threads } from "./threads";
-import { Toolbar } from "./toolbar";
+import { Threads } from "./Threads";
+import { Toolbar } from "./Toolbar";
 
 export function Editor() {
    const liveblocks = useLiveblocksExtension();
